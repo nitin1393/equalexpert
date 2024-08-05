@@ -1,0 +1,36 @@
+2024-07-23 09:37:36,796 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.27.91.135:8080
+2024-07-23 09:37:36,801 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-23 09:37:36,814 - werkzeug - INFO -  * Restarting with stat
+2024-07-23 09:37:39,727 - werkzeug - WARNING -  * Debugger is active!
+2024-07-23 09:37:41,303 - werkzeug - INFO -  * Debugger PIN: 116-405-204
+2024-07-23 09:37:47,451 - werkzeug - INFO - 127.0.0.1 - - [23/Jul/2024 09:37:47] "[33mGET / HTTP/1.1[0m" 404 -
+2024-07-23 09:37:47,986 - app.main - INFO - Request URL: https://api.github.com/users/favicon.ico/gists
+2024-07-23 09:37:48,419 - app.main - INFO - Response: <Response [404]>
+2024-07-23 09:37:48,420 - app.main - ERROR - Failed to retrieve data for user: favicon.ico, Status Code: 404
+2024-07-23 09:37:48,423 - werkzeug - INFO - 127.0.0.1 - - [23/Jul/2024 09:37:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-07-23 09:37:53,344 - app.main - INFO - Request URL: https://api.github.com/users/octant/gists
+2024-07-23 09:37:53,969 - app.main - INFO - Response: <Response [200]>
+2024-07-23 09:37:53,971 - app.main - INFO - Successful request for user: octant
+2024-07-23 09:37:53,976 - werkzeug - INFO - 127.0.0.1 - - [23/Jul/2024 09:37:53] "GET /octant HTTP/1.1" 200 -
+2024-07-23 09:38:10,093 - werkzeug - INFO -  * Detected change in '/mnt/c/Users/NITIN/Documents/testhello/tests/test.py', reloading
+2024-07-23 09:38:49,225 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.27.91.135:8080
+2024-07-23 09:38:49,226 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-23 09:38:49,230 - werkzeug - INFO -  * Restarting with stat
+2024-07-23 09:38:49,981 - werkzeug - WARNING -  * Debugger is active!
+2024-07-23 09:38:49,983 - werkzeug - INFO -  * Debugger PIN: 116-405-204
+2024-07-23 09:38:52,536 - app.main - INFO - Request URL: https://api.github.com/users/octant/gists
+2024-07-23 09:38:52,820 - app.main - INFO - Response: <Response [200]>
+2024-07-23 09:38:52,820 - app.main - INFO - Successful request for user: octant
+2024-07-23 09:38:52,825 - werkzeug - INFO - 127.0.0.1 - - [23/Jul/2024 09:38:52] "GET /octant HTTP/1.1" 200 -
+2024-07-23 09:39:04,556 - werkzeug - INFO -  * Detected change in '/mnt/c/Users/NITIN/Documents/testhello/tests/test.py', reloading
+2024-07-23 09:39:04,698 - werkzeug - INFO -  * Restarting with stat
+2024-07-23 09:39:05,670 - werkzeug - WARNING -  * Debugger is active!
+2024-07-23 09:39:05,671 - werkzeug - INFO -  * Debugger PIN: 116-405-204
+2024-07-23 09:39:07,042 - werkzeug - INFO -  * Detected change in '/mnt/c/Users/NITIN/Documents/testhello/tests/test.py', reloading
+2024-07-23 09:39:07,235 - werkzeug - INFO -  * Restarting with stat
